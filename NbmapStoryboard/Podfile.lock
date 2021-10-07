@@ -1,0 +1,16 @@
+PODS:
+  - nb-ios-maps (0.0.5)
+
+DEPENDENCIES:
+  - nb-ios-maps (~> 0.0.5)
+
+SPEC REPOS:
+  trunk:
+    - nb-ios-maps
+
+SPEC CHECKSUMS:
+  nb-ios-maps: 5f930dc5377a7d5f7bf91e736bb5455abf18bb13
+
+PODFILE CHECKSUM: 2a9aac9ce07cac4054928434b855fdca6360113b
+
+COCOAPODS: 1.11.2

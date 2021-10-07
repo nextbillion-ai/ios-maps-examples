@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>NBMapKey</key>
-	<string>your secret key</string>
+	<string>your-secret-key</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
